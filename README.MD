@@ -17,9 +17,9 @@ __Voice chats:__
 
 Roughly how many hours per week are you in voice channels on HSD?
 
-Do you have the ability to record audio in voice channels?
+Do you have the ability to record audio/video in voice channels?
 
-If you are able to, please attach a recording of any voice chat on HSD (what is said during your short recording doesn't matter) to show you're able to record and upload video clips.
+If you're able to, please attach a recording of any VC on HSD (content doesn't matter) to show you're able to record and upload video clips.
 
 __Misc:__
 Any thing else you'd like to add:
